@@ -1,4 +1,4 @@
-Your site is live at https://niranjansurve.github.io/CognifyzTechnologies_L1_Task1_1.3/
+The site is live at https://niranjansurve.github.io/CognifyzTechnologies_L1_Task1_1.3/
 
 # Level 1 – Task 1.3  
 ## Advanced Navigation Menu (HTML & CSS Only)
